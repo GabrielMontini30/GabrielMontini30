@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👨‍💻 Gabriel Montini
 
-<!--
-**GabrielMontini30/GabrielMontini30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-End | Java & Spring Boot`**
 
-Here are some ideas to get you started:
+Sou estudante da área de tecnologia e desenvolvedor Back-end em formação, com foco em Java e Spring Boot. Tenho desenvolvido projetos práticos para aprofundar meus conhecimentos em desenvolvimento de APIs REST, autenticação e autorização, persistência de dados e segurança de aplicações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entre meus projetos estão um sistema de **Help Desk**, voltado ao gerenciamento de chamados, e um **Order Manager**, desenvolvido para trabalhar com gerenciamento de pedidos. Busco uma oportunidade de estágio em desenvolvimento Back-end para aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo profissionalmente.
+
+---
+
+### 🚀 Projetos em destaque
+
+#### 🎫 Help Desk API
+API Back-end para gerenciamento de chamados de suporte técnico, com foco em autenticação, autorização e organização das funcionalidades da aplicação.
+
+- Implementação de autenticação e controle de acesso.
+- Segurança com Spring Security e JWT.
+- Persistência de dados utilizando Spring Data JPA.
+- Desenvolvimento de endpoints REST.
+
+**Tecnologias:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate e PostgreSQL.
+
+#### 📦 Order Manager
+Projeto Back-end voltado ao gerenciamento de pedidos, desenvolvido para praticar a construção de APIs e a organização das regras de negócio de uma aplicação.
+
+- Estruturação das funcionalidades de gerenciamento de pedidos.
+- Desenvolvimento de endpoints para operações da aplicação.
+- Aplicação de conceitos de organização e manutenção de código.
+
+**Tecnologias:** Java, Spring Boot e tecnologias de persistência de dados utilizadas no projeto.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <img alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Spring Boot" title="Spring Boot" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="Spring Security" title="Spring Security" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="Docker" title="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GabrielMontini30&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMontini30&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 📫 Contato
+
+- **LinkedIn:** [Meu perfil profissional](https://www.linkedin.com/in/gabriel-montini/)
+- **GitHub:** [Meus repositórios](https://github.com/gabriel-montini)
+
+Estou aberto a oportunidades de estágio em desenvolvimento Back-end e a novos desafios que contribuam para minha evolução como desenvolvedor.
