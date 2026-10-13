@@ -35,8 +35,7 @@ Projeto Back-end voltado ao gerenciamento de pedidos, desenvolvido para praticar
 
 <p align="left">
   <img alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Spring Boot" title="Spring Boot" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img alt="Spring Security" title="Spring Security" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="Spring Boot" title="Spring Boot & Spring security" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img alt="PostgreSQL" title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -49,7 +48,8 @@ Projeto Back-end voltado ao gerenciamento de pedidos, desenvolvido para praticar
 
 ### 📫 Contato
 
-- **LinkedIn:** [Meu perfil profissional](https://www.linkedin.com/in/gabriel-montini/)
-- **GitHub:** [Meus repositórios](https://github.com/gabriel-montini)
-
+- **LinkedIn:** [Gabriel Montini](https://www.linkedin.com/in/gabriel-montini/)
+- **E-mail:** [gabrielmontini30@gmail.com](mailto:gabrielmontini30@gmail.com)
+- **Telefone:** +55 (43) 998189156
+  
 Estou aberto a oportunidades de estágio em desenvolvimento Back-end e a novos desafios que contribuam para minha evolução como desenvolvedor.
