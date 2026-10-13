@@ -18,7 +18,7 @@ API Back-end para gerenciamento de chamados de suporte técnico, com foco em aut
 - Persistência de dados utilizando Spring Data JPA.
 - Desenvolvimento de endpoints REST.
 
-**Tecnologias:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate e PostgreSQL.
+**Tecnologias:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate e MySql.
 
 #### 📦 Order Manager
 Projeto Back-end voltado ao gerenciamento de pedidos, desenvolvido para praticar a construção de APIs e a organização das regras de negócio de uma aplicação.
